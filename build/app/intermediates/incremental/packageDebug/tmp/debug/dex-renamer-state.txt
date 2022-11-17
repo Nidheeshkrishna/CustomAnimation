@@ -1,0 +1,4 @@
+#Thu Nov 17 12:13:27 IST 2022
+base.0=/Users/ociuz/PROJECTS/demo/quizdemo_rd/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
